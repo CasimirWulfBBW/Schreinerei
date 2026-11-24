@@ -1,0 +1,5 @@
+.furniture {
+  display: flex;
+  flex-wrap: warp;
+  gap: 20px;
+}
