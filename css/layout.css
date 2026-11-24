@@ -1,5 +1,11 @@
 .furniture {
-  display: flex;
-  flex-wrap: warp;
-  gap: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.contacts {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
 }
